@@ -4,7 +4,7 @@
     width="100" />
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/sigit-kurniawan-a85108272/">
     <img
@@ -60,7 +60,7 @@ from Indonesia
 
 - :zap: In my free time, I designing some stuff using Inkscape.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](sigitkurniawanmtsn@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](sigitkurniawanmtsn@gmail.com)
 
 ---
 
@@ -88,8 +88,6 @@ from Indonesia
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sigitKurnia1&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sigitKurnia1&theme=onedark" alt="GitHub Streak" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigitKurnia1&layout=compact)
-
-[react]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react
