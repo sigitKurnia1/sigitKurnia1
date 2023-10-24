@@ -90,5 +90,5 @@ from Indonesia
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sigitKurnia1&theme=onedark" alt="GitHub Streak" /></a>
-  ![Top Langs](https://github-readme-stats.react.app/api/top-langs/?username=sigitKurnia1&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigitKurnia1&layout=compact)
 </div>
