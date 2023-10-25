@@ -60,7 +60,7 @@ from Indonesia
 
 - :zap: In my free time, I designing some stuff using Inkscape.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](sigitkurniawanmtsn@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)] sigitkurniawanmtsn@gmail.com
 
 ---
 
