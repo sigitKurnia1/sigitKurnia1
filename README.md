@@ -13,17 +13,17 @@
   </a>
   <a href="https://www.youtube.com/channel/UCzp77sGNJRDdX20Va5Li9qA">
     <img
-      src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
       alt="YouTube Badge" />
   </a>
   <a href="https://www.instagram.com/sigit_kurniawan_9/">
     <img
-      src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram Badge" />
   </a>
   <a href=""></a>
   <img
-    src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white"
     alt="Discord Badge" />
 </div>
 
