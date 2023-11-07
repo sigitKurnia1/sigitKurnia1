@@ -49,7 +49,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Full Stack Developer
+### :man_technologist: About Me : I am a Software Engineer
 
 <img
   src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
