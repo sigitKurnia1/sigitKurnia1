@@ -40,13 +40,6 @@
     width="30px" />
 </h1>
 
-<div align="center">
-  <img
-    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="600"
-    height="300" />
-</div>
-
 ---
 
 ### :man_technologist: About Me : I am a Software Engineer
@@ -60,7 +53,7 @@ from Indonesia
 
 - :zap: In my free time, I designing some stuff using Inkscape.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)] sigitkurniawanmtsn@gmail.com
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)] sigitkurniawan1052
 
 ---
 
