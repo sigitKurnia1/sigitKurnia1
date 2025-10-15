@@ -53,7 +53,7 @@ from Indonesia
 
 - :zap: In my free time, I designing some stuff using Inkscape.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)] sigitkurniawan1052
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)] sigitkurniawan1052@gmail.com
 
 ---
 
@@ -68,6 +68,7 @@ from Indonesia
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 </div>
 
 ---
