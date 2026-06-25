@@ -1,80 +1,104 @@
 <div id="header" align="center">
-  <img
-    src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif"
-    width="100" />
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="120"/>
 </div>
 
-<div id="badges" align="center">
-  <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/sigit-kurniawan-a85108272/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge" />
+<div align="center">
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Sigit+Kurniawan;Web+Developer+%C2%B7+Laravel+%26+PHP+Ecosystem;Building+clean%2C+reliable+software." alt="Typing SVG"/>
+  </a>
+
+</div>
+
+<h3 align="center">Web Developer focused on the Laravel &amp; PHP ecosystem — building clean, reliable software.</h3>
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/sigit-kurniawan-a85108272/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/channel/UCzp77sGNJRDdX20Va5Li9qA">
-    <img
-      src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="YouTube Badge" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://www.instagram.com/sigit_kurniawan_9/">
-    <img
-      src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href=""></a>
-  <img
-    src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white"
-    alt="Discord Badge" />
+  <a href="mailto:sigitkurniawanmtsn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <!-- Discord (optional): replace YOUR_DISCORD_INVITE below or delete this badge entirely -->
+  <a href="https://discord.com/users/YOUR_DISCORD_INVITE">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=sigitKurnia1&style=for-the-badge&color=blue" alt="Profile Views"/>
+
 </div>
 
-<div id="badges" align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sigitKurnia1"
-    alt="sigitKurnia1" />
+<br/>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-on--site%20%2F%20hybrid%20%2F%20remote-2ea44f?style=for-the-badge" alt="Open to Work"/>
+  <br/><br/>
+  <a href="https://sigitkurnia1.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sigit-kurniawan-a85108272/">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+
 </div>
 
-<h1>
-  Hey there
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="30px" />
-</h1>
+<hr/>
 
----
+## 🧑‍💻 About Me
 
-### :man_technologist: About Me : I am a Software Engineer
+- 🔭 **Web Developer** focused on the **Laravel / PHP** ecosystem — I also build mobile apps with **Android (Kotlin)**.
+- 🎓 Graduated **Cumlaude (GPA 3.88/4.00)** and **Top Graduate** in Informatics Engineering — **Politeknik Negeri Bengkalis**.
+- 🚀 **Bangkit Academy 2023** Graduate (led by Google, Tokopedia, Gojek &amp; Traveloka) · **BNSP Certified** Junior Web Programmer · **TOEIC 830**.
+- 👨‍🏫 Currently a **Teaching Assistant** at Politeknik Negeri Bengkalis; previously a **Programmer Intern** at PT. Garuda Cyber Indonesia.
+- 📍 Based in **Bengkalis, Riau, Indonesia**.
+- ⚡ In my free time, I enjoy designing with **Inkscape**.
+- 📫 Reach me via [email](mailto:sigitkurniawanmtsn@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sigit-kurniawan-a85108272/).
 
-<img
-  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
-  width="30" />
-from Indonesia
+<hr/>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications.
+## 🛠️ Languages &amp; Tools
 
-- :zap: In my free time, I designing some stuff using Inkscape.
+<div align="center">
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)] sigitkurniawan1052@gmail.com
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,java,python,tailwind,bootstrap,kotlin,figma,git" alt="Tech Stack"/>
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 </div>
 
----
+<hr/>
 
-### :fire: My Stats :
+## 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sigitKurnia1&theme=onedark" alt="GitHub Streak" /></a>
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigitKurnia1&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=sigitKurnia1&show_icons=true&theme=tokyonight" alt="Sigit's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigitKurnia1&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=sigitKurnia1&theme=tokyonight" alt="GitHub Streak"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sigitKurnia1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+<hr/>
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/>
+
+  <h3>Thanks for stopping by — let's build something great together! 🚀</h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" alt="footer wave"/>
+
+</div>
